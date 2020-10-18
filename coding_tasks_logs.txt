@@ -1,0 +1,23 @@
+Coding Task Problem 1
+---------------------
+Not applicable
+
+
+Coding Task Problem 2
+---------------------
+Example logs:
+
+Insert employee name: John
+
+1: Print employee data
+2: Update employee record
+1
+
+First name: John
+Age: undefined
+Address: null
+Current Boss: undefined
+Current Subordinates: []
+
+
+Insert employee name:
